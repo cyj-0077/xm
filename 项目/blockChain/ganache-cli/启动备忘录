@@ -1,0 +1,5 @@
+这个是启动区块链，保存运行数据
+node start-ganache.js --db ./database
+
+这个是启动区块链，不保存数据
+node start-ganache.js 
